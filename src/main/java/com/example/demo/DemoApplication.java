@@ -15,6 +15,7 @@ public class DemoApplication {
 
 	@RequestMapping("/")
 	String sayHello() {
-		return "Hello World! From Abhay Test Machine in AWS 23 34 again new";
+		return "Hello World! From Abhay Test Machine in AWS 23 34 again new
+		New App for comparison ";
 	}
 }
